@@ -6,8 +6,17 @@ A nice hamburger on my terminal
 ## Install Oh-My ZSH Terminal
 Follow the rules https://github.com/robbyrussell/oh-my-zsh
 
-## Emoji on Terminal
-* Edit the template with vim, nano, etc.
+## Be sure to know what and where is your current theme.
+* If your want to know your current theme, take a look in ~/.zshrc
+
+```
+  ...
+  ZSH_THEME="maran"
+  ...
+```
+
+## Edit the template with vim, nano, etc.
+* Edit your terminal theme. In this example is robbyrussell.zsh-theme
 
 ```sh
 cd ~
@@ -16,11 +25,9 @@ cd .oh-my-zsh
 cd /themes
 vim robbyrussell.zsh-theme
 ```
-Si es nuevo Cambiar este icono
-
-➜
 
 ## Customize your terminal
+If you really want a emoji on your terminal, just copy and paste it.
 
 ```sh
 local ret_status="%(?:%{$fg_bold[green]%}🍒 :%{$fg_bold[red]%}🍒 )"
