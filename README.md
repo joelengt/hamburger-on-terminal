@@ -20,22 +20,7 @@ Si es nuevo Cambiar este icono
 
 ➜
 
-Por el que quier
-
-🍒
-🍜
-🍥
-🍧
-🍰
-🍺
-
-
-more
-http://apps.timwhitlock.info/emoji/tables/unicode
-
------------------------------------------
-
-## Config pretty - Read
+## Customize your terminal
 
 ```sh
 local ret_status="%(?:%{$fg_bold[green]%}🍒 :%{$fg_bold[red]%}🍒 )"
@@ -46,3 +31,16 @@ ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[blue]%}) %{$fg[yellow]%}✗"
 ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%})"
 ```
+
+## More emojis
+
+🍒
+🍜
+🍥
+🍧
+🍰
+🍺
+
+
+source
+http://apps.timwhitlock.info/emoji/tables/unicode
