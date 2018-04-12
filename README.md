@@ -1,6 +1,8 @@
 # Hamburger-on-terminal
 A nice hamburger on my terminal
 
+![alt text](https://github.com/joelengt/hamburger-on-terminal/blob/master/29751176_1799264796792617_63374563_n.png?raw=true)
+
 ## Install Oh-My ZSH Terminal
 Follow the rules https://github.com/robbyrussell/oh-my-zsh
 
